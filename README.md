@@ -1,4 +1,4 @@
-Allow clients to detect bots on twitter
+#Allow clients to detect bots on twitter#
 
 #Scan specific profile page for bot tweets\
 #Scan specific user for bot probability\
