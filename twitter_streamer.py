@@ -9,7 +9,7 @@ import twitter_credentials
 
 BOTSCORE = 0.0001
 LIST1 = ["#الجهاد_الاسلامي", "#رجال_الانفاق", "#Farrakhan", "حب"]
-LIST = ["Israel gay"]
+LIST = ["Israel politics"]
 TWEETS_FILENAME = "tweets2.txt"
 
 
