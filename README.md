@@ -5,7 +5,7 @@
 > Using Twitter API and Botometer for machine learning algorithm.
 
 Installation:  
-Need to define twitter credentials on twitter_credentials.py to lunch: 
+Need to define twitter credentials on twitter_credentials.py to launch: 
 * ACCESS_TOKEN 
 * ACCESS_TOKEN_SECRET 
 * CONSUMER_KEY 
